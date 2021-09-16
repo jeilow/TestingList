@@ -22,6 +22,3 @@ han_solo
 artoo_detoo
 ben_kenobi
 azureuser
-
-
-
